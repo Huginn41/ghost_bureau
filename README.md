@@ -9,7 +9,7 @@
 [![Framer Motion](https://img.shields.io/badge/Framer_Motion-13-ff4154?style=flat-square)](https://www.framer.com/motion/)
 [![Vite](https://img.shields.io/badge/Vite-8-646cff?style=flat-square&logo=vite)](https://vite.dev)
 
-[**🌐 Открыть приложение**]([https://ghost-bureau.storage.yandexcloud.net](https://ghost-bureau.website.yandexcloud.net/)) &nbsp;·&nbsp; [Тестовое задание MOX · AI-first Developer · Сентябрь 2026]
+[**🌐 Открыть приложение**](https://ghost-bureau.website.yandexcloud.net/) &nbsp;·&nbsp; [Тестовое задание MOX · AI-first Developer · Сентябрь 2026]
 
 </div>
 
